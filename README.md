@@ -1,4 +1,4 @@
 # Mughal_project
 This is my first project
-
-Auther - Umar Javed
+<br>
+Author - Umar Javed
